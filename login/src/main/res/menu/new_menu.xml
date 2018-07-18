@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/favorite"
+            android:icon="@mipmap/raw_1499947358"
+            android:checkable="true"
+            android:title="    会员                        >"/>
+    </group>
+    <item
+        android:id="@+id/wallet"
+        android:icon="@mipmap/raw_1499946865"
+        android:title="    查看                        >"/>
+    <item
+        android:id="@+id/photo"
+        android:icon="@mipmap/raw_1499947056"
+        android:title="    相册                        >"/>
+    <item
+        android:id="@+id/dress"
+        android:icon="@mipmap/raw_1499947389"
+        android:title="    装扮                        >"/>
+    <item
+        android:id="@+id/file"
+        android:icon="@mipmap/raw_1499947157"
+        android:title="    设置                        >"/>
+
+</menu>

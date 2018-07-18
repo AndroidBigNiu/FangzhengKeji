@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   android:orientation="vertical"
+    android:background="@drawable/huanghun"
+    >
+<Button
+    android:id="@+id/cross_video"
+    android:layout_width="60dp"
+    android:layout_height="60dp"
+    android:layout_gravity="center"
+    android:background="@drawable/shipin"
+    android:layout_marginTop="40dp"
+    />
+    <Button
+        android:id="@+id/cross_duanyou"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center"
+        android:background="@drawable/duanzi"
+        android:layout_marginTop="40dp"
+        />
+
+</LinearLayout>
